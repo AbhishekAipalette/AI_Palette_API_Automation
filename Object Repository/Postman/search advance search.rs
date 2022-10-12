@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>search advance search</name>
+   <tag></tag>
+   <elementGuidId>3dd98e9a-18c3-44f4-ac2b-d1779cdffac7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <katalonVersion>8.2.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>${baseUrl}/search/advanced_search/assosiated_trends/?country=${country_name}&amp;category=${category_name}&amp;lens=theme&amp;consumer_need_set=1</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.baseUrl</defaultValue>
+      <description></description>
+      <id>561d22cf-a12a-46bb-8a1c-232a1891505c</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.country_name</defaultValue>
+      <description></description>
+      <id>26d57300-fd21-4c1d-89d2-d010e3171a13</id>
+      <masked>false</masked>
+      <name>country_name</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.category_name</defaultValue>
+      <description></description>
+      <id>b9deb19d-bcc5-4b97-9ace-1d171ba4e925</id>
+      <masked>false</masked>
+      <name>category_name</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

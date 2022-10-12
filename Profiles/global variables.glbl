@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>global variables</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://prod-api.aipalette.com/api/'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjYxMTY4NjY0LCJpYXQiOjE2NjExNTA2NjQsImp0aSI6IjFiZTEyZGEyMGYyNDQ0ODVhM2I3YTYyODBmNDExYjFhIiwidXNlcl9pZCI6NH0.5H4NBt5KlAvT1FB1ZKPNC-DabqmjBT55kIVm2UfwY-M'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>successCode</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
