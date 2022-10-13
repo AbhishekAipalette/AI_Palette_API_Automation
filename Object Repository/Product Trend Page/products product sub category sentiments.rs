@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>products product sb category sentiments</name>
+   <name>products product sub category sentiments</name>
    <tag></tag>
    <elementGuidId>21e65e21-99d6-4cac-8ae7-75d1f3df78ba</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

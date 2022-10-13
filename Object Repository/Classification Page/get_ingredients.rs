@@ -6,6 +6,15 @@
    <elementGuidId>060e43bc-634f-4282-9bb4-37ba8990fa49</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <authorizationRequest>
+      <authorizationInfo>
+         <entry>
+            <key>bearerToken</key>
+            <value>bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY1NjA1OTM0LCJqdGkiOiI4NjQ3NjYwNzNiZDY0MGU0YmZjNGNiMjhiYmM2NTc4YiIsInVzZXJfaWQiOjMwMn0.QOmD8wRNWWnFEbaSrlDEM0N3V-HfjHCnMIcUeQaNxIw</value>
+         </entry>
+      </authorizationInfo>
+      <authorizationType>Bearer</authorizationType>
+   </authorizationRequest>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
@@ -21,13 +30,15 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
+      <webElementGuid>8eb95ca8-d6bc-4e36-9855-1469125849ef</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Basic cWFfYWRtaW5AYWlwYWxldHRlLmNvbTpxYS1hZG1pbi0xMjM0</value>
+      <value>bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY1NjA1OTM0LCJqdGkiOiI4NjQ3NjYwNzNiZDY0MGU0YmZjNGNiMjhiYmM2NTc4YiIsInVzZXJfaWQiOjMwMn0.QOmD8wRNWWnFEbaSrlDEM0N3V-HfjHCnMIcUeQaNxIw</value>
+      <webElementGuid>2d293a41-79af-4623-9f33-065d3c767169</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.2.5</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>

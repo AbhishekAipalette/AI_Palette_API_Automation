@@ -21,6 +21,7 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
+      <webElementGuid>4807281f-6121-4b14-b584-877b6d558bca</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -28,6 +29,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY1NTgyODk3LCJqdGkiOiIzZjBhYWViNTgyZjA0ZTE3YThjYmVjYTE1NWYyN2I4OSIsInVzZXJfaWQiOjMwMn0.42vvo6Ec3DQVwp2NAhYrrDR1q3dOTitvs_8Xt6jLAzI</value>
+      <webElementGuid>324bf6b8-343f-44b5-b0d4-eba40e46369e</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.2.5</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>

@@ -19,4 +19,14 @@
       <initValue>0</initValue>
       <name>successCode</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Australia'</initValue>
+      <name>country_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Snacks'</initValue>
+      <name>category_name</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
